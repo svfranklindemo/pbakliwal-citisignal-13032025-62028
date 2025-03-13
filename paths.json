@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/:/",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/configuration:/.helix/config.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/metadata:/metadata.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/configs:/configs.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/configs-stage:/configs-stage.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/configs-dev:/configs-dev.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/redirects:/redirects.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/placeholders:/placeholders.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/products/recommended-products:/products/recommended-products.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/pbakliwal/pbakliwal-2025-3-13-11-50-18-test-citi",
       "/content/dam/citisignal/images/products/"
     ]
 }
